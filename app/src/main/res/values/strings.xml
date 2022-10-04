@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">App</string>
-    <string name="login_screen">Login screen</string>
+    <string name="login_screen">Login</string>
+    <string name="login_button">Login</string>
+    <string name="placeholder_phone">Phone</string>
+    <string name="placeholder_name">Name</string>
+    <string name="placeholder_password">Password</string>
 </resources>
