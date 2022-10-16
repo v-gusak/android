@@ -32,7 +32,7 @@ fun main() {
 
     println("Count of rectangles = $rectangles")
     println("Count of circles = $circles")
-    println("Count of ellipses = $ovals")
+    println("Count of ovals = $ovals")
     println("Count of lines = $lines")
 
     rectangles = 0
@@ -51,6 +51,6 @@ fun main() {
 
     println("\nCount of rectangles = $rectangles")
     println("Count of circles = $circles")
-    println("Count of ellipses = $ovals")
+    println("Count of ovals = $ovals")
     println("Count of lines = $lines")
 }
