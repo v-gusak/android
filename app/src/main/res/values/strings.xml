@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lecture5 App</string>
+    <string name="button_name">Click me</string>
+    <string name="editText_hint">Type something</string>
+    <string name="textView_value">Some text</string>
+    <string name="buttonShow_name">Show</string>
+    <string name="buttonHide_name">Hide</string>
+    <string name="addTextChanged_text">Text in editText is changed</string>
+</resources>
