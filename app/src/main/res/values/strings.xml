@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lecture6</string>
+    <string name="buttonNext_name">next activity</string>
+    <string name="buttonPrevious_name">previous activity</string>
+    <string name="MainActivity_text">First activity</string>
+    <string name="SecondActivity_text">Second activity</string>
+    <string name="ThirdActivity_text">Third activity</string>
+    <string name="textView_placeholder">Enter name, age and student or not</string>
+    <string name="buttonThird_name">get data from second</string>
+    <string name="thirdActivity_text">Click button and rotate phone</string>
+</resources>
