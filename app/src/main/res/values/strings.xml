@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lecture 7</string>
+    <string name="buttonMain_name">Send data to home fragment</string>
+    <string name="buttonHome_name">Send data to second fragment</string>
+    <string name="editText_hint">Your message</string>
+    <string name="secondTextView_text">Message</string>
+    <string name="homeTextView_text">Data</string>
+</resources>
