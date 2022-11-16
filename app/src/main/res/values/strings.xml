@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lecture8</string>
+    <string name="button_name">Go to vertical RecyclerView</string>
+</resources>
